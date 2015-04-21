@@ -1,9 +1,9 @@
 lock '3.4.0'
 set :application, 'tearoom_hubot'
 set :repo_url, 'git@github.com:Kaminogi-Works/tearoom_hubot.git'
-set :deploy_to, '/home/hubot/tearoom'
+set :deploy_to, '/home/hubot-kongo/tearoom'
 # User
-set :user, 'hubot'
+set :user, 'hubot-kongo'
 
 # Default value for default_env is {}
 set :node_env, (fetch(:node_env) || fetch(:stage))
