@@ -1,0 +1,7 @@
+.DS_Store*
+.hubot_history
+dump.rdb
+npm-debug.log
+.envrc
+.npm
+.config

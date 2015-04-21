@@ -1,0 +1,5 @@
+Just run
+
+bundle exec cap production deploy
+
+
